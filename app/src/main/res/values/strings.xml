@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tour Guide: New York City</string>
+
+    <!--Category name for Activities-->
+    <string name="category_activities">Activities</string>
+
+    <!--Category name for Events-->
+    <string name="category_events">Events</string>
+
+    <!--Category name for Points of interest-->
+    <string name="category_points_of_interest">Points of Interest</string>
+
+    <!--Category name for Restaurant-->
+    <string name="category_restaurant">Restaurants</string>
+
+</resources>
+

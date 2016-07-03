@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="category_activities">#B71C1C</color>
+    <color name="category_events">#0D47A1</color>
+    <color name="category_points_of_interest">#1B5E20</color>
+    <color name="category_restaurant">#FFD600</color>
+
+</resources>
